@@ -121,7 +121,7 @@ header h2 .color {
     font-size: 18px;
     line-height: 50px;
     margin: 0 auto;
-    bottom: -350px;
+    bottom: -380px;
 }
 .button-1:hover {
     background-color: #02b8dd;
@@ -149,7 +149,7 @@ header h2 .color {
 }
 
 footer {
-    height: 150px;
+    height: 180px;
     background-color: #f8fafa;
 }
 #footer-info {
