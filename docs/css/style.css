@@ -134,7 +134,7 @@ header h2 .color {
     left:20%;
     transform: translateX(-50%);
     text-align: center;
-    background:  #d9d9d9;
+    background:  #2eb82e;
     border-radius: 3px;
     color: #FFFFFF;
     width: 180px;
@@ -143,6 +143,11 @@ header h2 .color {
     line-height: 50px;
     margin: 0 auto;
     bottom: -380px;
+}
+
+.button-1:hover {
+    background-color: #02b8dd;
+    color: #fff;
 }
 
 .button-3 {
