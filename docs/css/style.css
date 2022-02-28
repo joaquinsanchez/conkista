@@ -48,9 +48,7 @@ a {
     text-decoration: none;
     color: #444;
 }
-a:hover {
-    color: #02b8dd;
-}
+
 strong {
     font-weight: bold;
 }
@@ -104,16 +102,18 @@ header h2 .color {
     padding-top: 1px;
     background: #e8eced url('../images/hero.png') no-repeat center;
 }
+
 #hero-image h2 {
     margin: 250px 0 40px 0;
 }
+
 .button-1 {
     display: inline-block;
     position: relative;
     left:20%;
     transform: translateX(-50%);
     text-align: center;
-    background: #2eb82e;
+    background: #d9d9d9;
     border-radius: 3px;
     color: #FFFFFF;
     width: 180px;
@@ -122,10 +122,6 @@ header h2 .color {
     line-height: 50px;
     margin: 0 auto;
     bottom: -380px;
-}
-.button-1:hover {
-    background-color: #02b8dd;
-    color: #fff;
 }
 
 .button-2 {
@@ -134,7 +130,7 @@ header h2 .color {
     left:20%;
     transform: translateX(-50%);
     text-align: center;
-    background:  #2eb82e;
+    background:  #d9d9d9;
     border-radius: 3px;
     color: #FFFFFF;
     width: 180px;
@@ -145,18 +141,13 @@ header h2 .color {
     bottom: -380px;
 }
 
-.button-1:hover {
-    background-color: #02b8dd;
-    color: #fff;
-}
-
 .button-3 {
     display: inline-block;
     position: relative;
     left:20%;
     transform: translateX(-50%);
     text-align: center;
-    background:  #2eb82e;
+    background:  #d9d9d9;
     border-radius: 3px;
     color: #FFFFFF;
     width: 180px;
@@ -173,7 +164,7 @@ header h2 .color {
     left:20%;
     transform: translateX(-50%);
     text-align: center;
-    background:  #2eb82e;
+    background:  #d9d9d9;
     border-radius: 3px;
     color: #FFFFFF;
     width: 180px;
@@ -188,6 +179,7 @@ header h2 .color {
 #features ul {
     margin: 20px 50;
 }
+
 #features ul li {
     width: 300px;
     padding-top: 110px;
@@ -195,6 +187,7 @@ header h2 .color {
     margin-right: 10px;
     text-align: center;
 }
+
 #features ul li.feature-1 {
     background: url('../images/features-icon-3.png') no-repeat top center;
 }
